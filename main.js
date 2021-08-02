@@ -1,8 +1,0 @@
-// Canvas Rezize Mobile
-
-
-
-
-
-
-
